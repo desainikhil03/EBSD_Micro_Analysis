@@ -1,0 +1,16 @@
+ebsd_analyzer/
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── pages/
+│   │   ├── __init__.py
+│   │   └── ebsd_deep_clean.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── file_handlers.py
+│   │   └── image_processing.py
+│   └── components/
+│       ├── __init__.py
+│       └── sidebar.py
+└── README.md 
